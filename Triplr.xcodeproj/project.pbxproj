@@ -13,6 +13,17 @@
 		F73BB99F25C51C5E003F6DD2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F73BB99E25C51C5E003F6DD2 /* Preview Assets.xcassets */; };
 		F73BB9AA25C51C5E003F6DD2 /* TriplrTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F73BB9A925C51C5E003F6DD2 /* TriplrTests.swift */; };
 		F73BB9B525C51C5E003F6DD2 /* TriplrUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F73BB9B425C51C5E003F6DD2 /* TriplrUITests.swift */; };
+		F73BB9D025C51F71003F6DD2 /* UIFont+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F73BB9CF25C51F71003F6DD2 /* UIFont+Extension.swift */; };
+		F73BB9D825C51F9D003F6DD2 /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F73BB9D725C51F9D003F6DD2 /* UIColor+Extension.swift */; };
+		F73BB9DF25C5210E003F6DD2 /* Metropolis-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = F73BB9C925C51F28003F6DD2 /* Metropolis-Bold.otf */; };
+		F73BB9E025C5210E003F6DD2 /* Metropolis-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = F73BB9CA25C51F28003F6DD2 /* Metropolis-Black.otf */; };
+		F73BB9E125C5210E003F6DD2 /* Metropolis-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = F73BB9CB25C51F28003F6DD2 /* Metropolis-Medium.otf */; };
+		F73BB9E225C5210E003F6DD2 /* Metropolis-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = F73BB9CC25C51F28003F6DD2 /* Metropolis-Regular.otf */; };
+		F73BB9E325C5210E003F6DD2 /* Metropolis-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = F73BB9CD25C51F28003F6DD2 /* Metropolis-SemiBold.otf */; };
+		F761F10F25CAA2470087422F /* RoundedCorner.swift in Sources */ = {isa = PBXBuildFile; fileRef = F761F10E25CAA2470087422F /* RoundedCorner.swift */; };
+		F77D8B5025C7E5FF00C2F342 /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = F77D8B4F25C7E5FF00C2F342 /* Story.swift */; };
+		F77D8B5825C7E61B00C2F342 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = F77D8B5725C7E61B00C2F342 /* User.swift */; };
+		F7C2896B25CBD6D00013372B /* Trip.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C2896A25CBD6D00013372B /* Trip.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +56,17 @@
 		F73BB9B025C51C5E003F6DD2 /* TriplrUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TriplrUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F73BB9B425C51C5E003F6DD2 /* TriplrUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriplrUITests.swift; sourceTree = "<group>"; };
 		F73BB9B625C51C5E003F6DD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F73BB9C925C51F28003F6DD2 /* Metropolis-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Metropolis-Bold.otf"; sourceTree = "<group>"; };
+		F73BB9CA25C51F28003F6DD2 /* Metropolis-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Metropolis-Black.otf"; sourceTree = "<group>"; };
+		F73BB9CB25C51F28003F6DD2 /* Metropolis-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Metropolis-Medium.otf"; sourceTree = "<group>"; };
+		F73BB9CC25C51F28003F6DD2 /* Metropolis-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Metropolis-Regular.otf"; sourceTree = "<group>"; };
+		F73BB9CD25C51F28003F6DD2 /* Metropolis-SemiBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Metropolis-SemiBold.otf"; sourceTree = "<group>"; };
+		F73BB9CF25C51F71003F6DD2 /* UIFont+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIFont+Extension.swift"; sourceTree = "<group>"; };
+		F73BB9D725C51F9D003F6DD2 /* UIColor+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
+		F761F10E25CAA2470087422F /* RoundedCorner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedCorner.swift; sourceTree = "<group>"; };
+		F77D8B4F25C7E5FF00C2F342 /* Story.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
+		F77D8B5725C7E61B00C2F342 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		F7C2896A25CBD6D00013372B /* Trip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trip.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +117,9 @@
 		F73BB99625C51C5C003F6DD2 /* Triplr */ = {
 			isa = PBXGroup;
 			children = (
+				F77D8B4E25C7E5F200C2F342 /* Model */,
+				F73BB9C825C51F1F003F6DD2 /* Font */,
+				F73BB9CE25C51F65003F6DD2 /* Extension */,
 				F73BB99725C51C5C003F6DD2 /* TriplrApp.swift */,
 				F73BB99925C51C5C003F6DD2 /* ContentView.swift */,
 				F73BB99B25C51C5D003F6DD2 /* Assets.xcassets */,
@@ -128,6 +153,38 @@
 				F73BB9B625C51C5E003F6DD2 /* Info.plist */,
 			);
 			path = TriplrUITests;
+			sourceTree = "<group>";
+		};
+		F73BB9C825C51F1F003F6DD2 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				F73BB9CA25C51F28003F6DD2 /* Metropolis-Black.otf */,
+				F73BB9C925C51F28003F6DD2 /* Metropolis-Bold.otf */,
+				F73BB9CB25C51F28003F6DD2 /* Metropolis-Medium.otf */,
+				F73BB9CC25C51F28003F6DD2 /* Metropolis-Regular.otf */,
+				F73BB9CD25C51F28003F6DD2 /* Metropolis-SemiBold.otf */,
+			);
+			path = Font;
+			sourceTree = "<group>";
+		};
+		F73BB9CE25C51F65003F6DD2 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				F73BB9CF25C51F71003F6DD2 /* UIFont+Extension.swift */,
+				F73BB9D725C51F9D003F6DD2 /* UIColor+Extension.swift */,
+				F761F10E25CAA2470087422F /* RoundedCorner.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		F77D8B4E25C7E5F200C2F342 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				F77D8B4F25C7E5FF00C2F342 /* Story.swift */,
+				F77D8B5725C7E61B00C2F342 /* User.swift */,
+				F7C2896A25CBD6D00013372B /* Trip.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,6 +292,11 @@
 			files = (
 				F73BB99F25C51C5E003F6DD2 /* Preview Assets.xcassets in Resources */,
 				F73BB99C25C51C5E003F6DD2 /* Assets.xcassets in Resources */,
+				F73BB9E325C5210E003F6DD2 /* Metropolis-SemiBold.otf in Resources */,
+				F73BB9E225C5210E003F6DD2 /* Metropolis-Regular.otf in Resources */,
+				F73BB9DF25C5210E003F6DD2 /* Metropolis-Bold.otf in Resources */,
+				F73BB9E125C5210E003F6DD2 /* Metropolis-Medium.otf in Resources */,
+				F73BB9E025C5210E003F6DD2 /* Metropolis-Black.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +321,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7C2896B25CBD6D00013372B /* Trip.swift in Sources */,
+				F73BB9D025C51F71003F6DD2 /* UIFont+Extension.swift in Sources */,
 				F73BB99A25C51C5C003F6DD2 /* ContentView.swift in Sources */,
 				F73BB99825C51C5C003F6DD2 /* TriplrApp.swift in Sources */,
+				F761F10F25CAA2470087422F /* RoundedCorner.swift in Sources */,
+				F73BB9D825C51F9D003F6DD2 /* UIColor+Extension.swift in Sources */,
+				F77D8B5025C7E5FF00C2F342 /* Story.swift in Sources */,
+				F77D8B5825C7E61B00C2F342 /* User.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

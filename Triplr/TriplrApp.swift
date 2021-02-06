@@ -12,6 +12,7 @@ struct TriplrApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                
         }
     }
 }
