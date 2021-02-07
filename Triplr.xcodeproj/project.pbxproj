@@ -23,7 +23,9 @@
 		F761F10F25CAA2470087422F /* RoundedCorner.swift in Sources */ = {isa = PBXBuildFile; fileRef = F761F10E25CAA2470087422F /* RoundedCorner.swift */; };
 		F77D8B5025C7E5FF00C2F342 /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = F77D8B4F25C7E5FF00C2F342 /* Story.swift */; };
 		F77D8B5825C7E61B00C2F342 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = F77D8B5725C7E61B00C2F342 /* User.swift */; };
+		F7A6961B25D0469200F5518A /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7A6961A25D0469200F5518A /* HomeView.swift */; };
 		F7C2896B25CBD6D00013372B /* Trip.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C2896A25CBD6D00013372B /* Trip.swift */; };
+		F7DFE3A025D05320003020AC /* MasterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7DFE39F25D05320003020AC /* MasterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,7 +68,9 @@
 		F761F10E25CAA2470087422F /* RoundedCorner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedCorner.swift; sourceTree = "<group>"; };
 		F77D8B4F25C7E5FF00C2F342 /* Story.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
 		F77D8B5725C7E61B00C2F342 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		F7A6961A25D0469200F5518A /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		F7C2896A25CBD6D00013372B /* Trip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trip.swift; sourceTree = "<group>"; };
+		F7DFE39F25D05320003020AC /* MasterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +126,8 @@
 				F73BB9CE25C51F65003F6DD2 /* Extension */,
 				F73BB99725C51C5C003F6DD2 /* TriplrApp.swift */,
 				F73BB99925C51C5C003F6DD2 /* ContentView.swift */,
+				F7A6961A25D0469200F5518A /* HomeView.swift */,
+				F7DFE39F25D05320003020AC /* MasterView.swift */,
 				F73BB99B25C51C5D003F6DD2 /* Assets.xcassets */,
 				F73BB9A025C51C5E003F6DD2 /* Info.plist */,
 				F73BB99D25C51C5E003F6DD2 /* Preview Content */,
@@ -321,6 +327,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7A6961B25D0469200F5518A /* HomeView.swift in Sources */,
 				F7C2896B25CBD6D00013372B /* Trip.swift in Sources */,
 				F73BB9D025C51F71003F6DD2 /* UIFont+Extension.swift in Sources */,
 				F73BB99A25C51C5C003F6DD2 /* ContentView.swift in Sources */,
@@ -328,6 +335,7 @@
 				F761F10F25CAA2470087422F /* RoundedCorner.swift in Sources */,
 				F73BB9D825C51F9D003F6DD2 /* UIColor+Extension.swift in Sources */,
 				F77D8B5025C7E5FF00C2F342 /* Story.swift in Sources */,
+				F7DFE3A025D05320003020AC /* MasterView.swift in Sources */,
 				F77D8B5825C7E61B00C2F342 /* User.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

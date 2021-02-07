@@ -27,7 +27,7 @@ struct Trip: Identifiable {
     }
         
     static var dummies = [
-        Trip(title: "A Date with Bae Suzy", description: "Date Suzy eat Sushi...!", images: ["suzy.date", "suzy.date.2", "suzy.date.3", "", "", ""], user: User.dummies.first!, heartCount: 69, commentCount: 96),
+        Trip(title: "A Date with Bae Suzy", description: "Date Suzy eat Sushi... At vero eos censes tantas res gessisse sine metu contineret, saluti prospexit civium. Omne animal, simul atque integre .....!", images: ["suzy.date", "suzy.date.2", "suzy.date.3", "", "", ""], user: User.dummies.first!, heartCount: 69, commentCount: 96),
         Trip(title: "Summer Date", description: "At vero eos censes tantas res gessisse sine metu contineret, saluti prospexit civium. Omne animal, simul atque integre .....", images: ["collage.1"], user: User.dummies.last!, heartCount: 69, commentCount: 96),
         Trip(title: "Winter Break", description: "At vero eos censes tantas res gessisse sine metu contineret, saluti prospexit civium. Omne animal, simul atque integre .....", images: [], user: User.dummies[1], heartCount: 69, commentCount: 96),
         Trip(title: "Summer Vacation", description: "At vero eos censes tantas res gessisse sine metu contineret, saluti prospexit civium. Omne animal, simul atque integre .....", images: ["collage.1", "collage.2", "collage.3"], user: User.dummies[2], heartCount: 69, commentCount: 96),
