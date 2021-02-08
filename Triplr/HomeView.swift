@@ -30,7 +30,7 @@ struct HomeView: View {
             
             ScrollView {
                 ForEach(Trip.dummies) { eachTrip in
-                    NavigationLink(destination: Color.primary) {
+                    NavigationLink(destination: TripView()) {
                         TripContentView(trip: eachTrip)
                     }
                 }

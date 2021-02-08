@@ -24,6 +24,7 @@
 		F77D8B5025C7E5FF00C2F342 /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = F77D8B4F25C7E5FF00C2F342 /* Story.swift */; };
 		F77D8B5825C7E61B00C2F342 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = F77D8B5725C7E61B00C2F342 /* User.swift */; };
 		F7A6961B25D0469200F5518A /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7A6961A25D0469200F5518A /* HomeView.swift */; };
+		F7B85A8525D0F1DB001F595B /* TripView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7B85A8425D0F1DB001F595B /* TripView.swift */; };
 		F7C2896B25CBD6D00013372B /* Trip.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C2896A25CBD6D00013372B /* Trip.swift */; };
 		F7DFE3A025D05320003020AC /* MasterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7DFE39F25D05320003020AC /* MasterView.swift */; };
 /* End PBXBuildFile section */
@@ -69,6 +70,7 @@
 		F77D8B4F25C7E5FF00C2F342 /* Story.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
 		F77D8B5725C7E61B00C2F342 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		F7A6961A25D0469200F5518A /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		F7B85A8425D0F1DB001F595B /* TripView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripView.swift; sourceTree = "<group>"; };
 		F7C2896A25CBD6D00013372B /* Trip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trip.swift; sourceTree = "<group>"; };
 		F7DFE39F25D05320003020AC /* MasterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -128,6 +130,7 @@
 				F73BB99925C51C5C003F6DD2 /* ContentView.swift */,
 				F7A6961A25D0469200F5518A /* HomeView.swift */,
 				F7DFE39F25D05320003020AC /* MasterView.swift */,
+				F7B85A8425D0F1DB001F595B /* TripView.swift */,
 				F73BB99B25C51C5D003F6DD2 /* Assets.xcassets */,
 				F73BB9A025C51C5E003F6DD2 /* Info.plist */,
 				F73BB99D25C51C5E003F6DD2 /* Preview Content */,
@@ -334,6 +337,7 @@
 				F73BB99825C51C5C003F6DD2 /* TriplrApp.swift in Sources */,
 				F761F10F25CAA2470087422F /* RoundedCorner.swift in Sources */,
 				F73BB9D825C51F9D003F6DD2 /* UIColor+Extension.swift in Sources */,
+				F7B85A8525D0F1DB001F595B /* TripView.swift in Sources */,
 				F77D8B5025C7E5FF00C2F342 /* Story.swift in Sources */,
 				F7DFE3A025D05320003020AC /* MasterView.swift in Sources */,
 				F77D8B5825C7E61B00C2F342 /* User.swift in Sources */,

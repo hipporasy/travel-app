@@ -26,7 +26,6 @@ struct MasterView: View {
                     switch selectedTabBar {
                     case .world:
                         HomeView()
-                        
                     default:
                         Color.white
                     }
@@ -40,7 +39,7 @@ struct MasterView: View {
                             Spacer()
                         }
                     }
-                    .frame(width: .infinity, height: geometry.safeAreaInsets.bottom + 49)
+                    .frame(maxWidth: .infinity, maxHeight: geometry.safeAreaInsets.bottom + 49)
                     .background(Color.lightGrey)
                     .clipShape(RoundedCorner(radius: 24, corners: [.topLeft, .topRight]))
                 }
